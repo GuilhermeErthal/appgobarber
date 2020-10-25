@@ -1,7 +1,8 @@
 {
   "env": {
       "browser": true,
-      "es6": true
+      "es6": true,
+      "jest": true
   },
   "extends": [
       "plugin:react/recommended",
@@ -41,6 +42,7 @@
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "no-unused-expressions":"off",
     "import/prefer-default-export": "off",
+    "import/no-duplicates": "off",
     "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
