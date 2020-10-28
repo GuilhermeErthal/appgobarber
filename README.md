@@ -31,8 +31,11 @@ Desenvolvemos a aplicação do zero, com backend([NodeJS](https://github.com/Gui
 1- Para instalar as dependências:
 > yarn
 
-2- Para iniciar a aplicação:
+2- Para iniciar Bundle da aplicação:
 > yarn start
+
+2- Para iniciar a aplicação:
+> yarn android
 
 ## ✍️ Authors <a name = "authors"></a>
 
